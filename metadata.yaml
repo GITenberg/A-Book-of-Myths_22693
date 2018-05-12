@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '26717'
     url: http://www.gutenberg.org/2009/agents/26717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22693#A-Book-of-Myths
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Folklore
